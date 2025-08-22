@@ -20,8 +20,3 @@ This service demonstrates token-based security in a microservice architecture.
 - Microservice communication with JWT
 - Centralized resource management
 - Logging using SLF4J and Logback
-
-## How to Run
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/resource-service.git
